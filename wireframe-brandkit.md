@@ -82,21 +82,20 @@
 https://odontologiadegales.cl/wp-content/uploads/2021/05/Logo-Gales.png
 ```
 
-### Fotos del Equipo (13)
+### Fotos del Equipo (12)
 ```
 Gloria Fernández:      .../2021/05/Gloria-fernandez-profesionales.jpg
 Dr. Oscar Oviedo:      .../2021/05/Dr.-Oscar-Oviedo-Muñoz.jpg
 Dr. Rodrigo Iturriaga: .../2021/05/Dr.-Rodrigo-Iturriaga-Urquieta.jpeg
 Dra. Carolina Oviedo:  .../2021/05/Dra.-Carolina-Oviedo-Sarmiento.jpg
-Dra. Francisca Din.:   .../2023/06/Dra-Francisca-Dinamarca-Lama.jpeg
+Dra. Constanza López:  [FOTO LOCAL — Constanza López Álvarez.jpg]
 Dra. Alejandra Gonz.:  .../2021/05/Dra.-Alejandra-González-Saavedra.jpeg
 Dra. María Fortuño:    .../2021/05/Dra.-María-Soledad-Fortuño.jpg
 Dr. Branko Radovic:    .../2021/05/Dr.-Branko-Radovic-1.jpeg
 Dr. Marcelo Silva:     .../2021/05/Dr.-Marcelo-Silva.jpg
 Dr. Pablo Santibañez:  .../2021/05/Dr.-Pablo-Andrés-Santibañez-Piana.jpg
-Dra. Camila Lavín:     .../2021/07/Dra.-Camila-Lavin-Odontología-de-Gales-1.jpeg
-Dra. Javiera Henríquez:.../2023/06/Javiera-Henriquez-scaled.jpg
-Dr. Nicolás Bartulin:  [FOTO LOCAL — proporcionada por el cliente, pendiente de subir]
+Dra. Valentina Gut.:   [FOTO LOCAL — Valentina Gutiérrez.jpg]
+Dr. Nicolás Bartulin:  [FOTO LOCAL — nicolas-bartulin.jpeg]
 ```
 Base URL: `https://odontologiadegales.cl/wp-content/uploads/`
 
@@ -220,7 +219,7 @@ Overjet - Antes    (2020): .../2023/11/00-06-069-Overjet-28042020-300x206.jpg
 │  Grid de fotos (4 columnas):                                │
 │  [foto] [foto] [foto] [foto]                                │
 │  [foto] [foto] [foto] [foto]                                │
-│  [foto] [foto] [foto] [foto]   (13 profesionales)           │
+│  [foto] [foto] [foto] [foto]   (12 profesionales)           │
 │  [foto]                                                     │
 │                                                             │
 │              [ Conocerlos ]  <- botón                       │
@@ -357,7 +356,7 @@ Overjet - Antes    (2020): .../2023/11/00-06-069-Overjet-28042020-300x206.jpg
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
-│ CARDS DE PROFESIONALES (13 cards, grid 3-4 columnas)        │
+│ CARDS DE PROFESIONALES (12 cards, grid 3-4 columnas)        │
 │                                                             │
 │  Estructura de cada card:                                   │
 │  ┌──────────────────────────────────┐                       │
@@ -398,14 +397,16 @@ Overjet - Antes    (2020): .../2023/11/00-06-069-Overjet-28042020-300x206.jpg
 - Magíster Docencia Cs. Salud (2022)
 - Docente U. San Sebastián
 
-**5. Dra. Francisca Dinamarca Lama**
-- Odont. General | Rehabilitación Oral
-- U. del Desarrollo (2017)
-- Especialista Rehab Oral (U. de Chile, 2023)
-- Diploma Medicina Oral
+**5. Dra. Constanza López Álvarez**
+- Rehabilitación Oral
+- Cirujano Dentista U. Mayor (2015)
+- Especialista en Rehabilitación Oral U. de Chile (2020-2023)
+- Premio excelencia académica 2023
+- Perfeccionamiento en Odontología Estética Adhesiva U. de Concepción (2018-2019)
+- Diplomado en Oclusión U. de Chile (2017)
 
 **6. Dra. Alejandra González Saavedra**
-- Odont. General | Rehabilitación Oral
+- Odont. General | Rehabilitación Oral | Estética Dental
 - U. de Valparaíso (2009)
 - Enfoque: odontología restauradora y estética
 
@@ -431,30 +432,22 @@ Overjet - Antes    (2020): .../2023/11/00-06-069-Overjet-28042020-300x206.jpg
 - SOCIMAXILOFACIAL | IAOMS
 
 **10. Dr. Pablo Andrés Santibañez Piana**
-- Odont. General | Implantología | Rehab Oral
+- Odont. General | Implantología | Rehab Oral | Estética
 - U. Mayor (1998-2003)
 - Magíster Rehab Oral (UNAB, 2008)
 - Diploma Estética Dental | Especializaciones en implantes
 
-**11. Dra. Camila Lavín Alfaro**
-- Odont. General | Odontopediatría | Anestesia
-- U. Mayor (2014)
-- Diploma Odontopediatría (2017)
-- Atención pacientes especiales y ansiosos
+**11. Dra. Valentina Gutiérrez**
+- Odontopediatría | Ortodoncia Preventiva
+- Cirujano Dentista U. Mayor (2016)
+- Diplomado de Ortodoncia Preventiva e Interceptiva (2018)
+- Odontopediatra U. de Chile (2022)
 
-**12. Dra. Javiera Henríquez**
-- Odont. General | Ortodoncia | Ortopedia Dentomaxilofacial
-- U. de Chile (2015)
-- Magíster Salud Pública (2018)
-- Especialista Ortodoncia (2023)
-
-**13. Dr. Nicolás Bartulin García** *(NUEVO — foto local)*
+**12. Dr. Nicolás Bartulin García**
 - Cirujano Dentista
-- Odont. General | Rehabilitación Oral | Estética Dental | Urgencias | Exodoncias
+- Odont. General | Rehabilitación Oral | Estética Dental | Urgencias
 - U. del Desarrollo | +8 años de experiencia
-- Formación complementaria: Adhesión Dental Integral, Rehab sobre Implantes, Estética Odontológica
-- Flujo digital y técnicas adhesivas modernas
-- Atención adultos y pediátricos
+- Adhesión Dental Integral, Rehab sobre Implantes, Flujo digital y técnicas adhesivas modernas
 
 ```
 ┌─────────────────────────────────────────────────────────────┐

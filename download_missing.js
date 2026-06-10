@@ -11,8 +11,7 @@ const files = [
   { url: "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dr.-Oscar-Oviedo-Mu%C3%B1oz.jpg", dest: "assets/equipo/oscar-oviedo.jpg" },
   { url: "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dra.-Alejandra-Gonz%C3%A1lez-Saavedra.jpeg", dest: "assets/equipo/alejandra-gonzalez.jpeg" },
   { url: "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dra.-Mar%C3%ADa-Soledad-Fortu%C3%B1o.jpg", dest: "assets/equipo/maria-fortuno.jpg" },
-  { url: "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dr.-Pablo-Andr%C3%A9s-Santiba%C3%B1ez-Piana.jpg", dest: "assets/equipo/pablo-santibanez.jpg" },
-  { url: "https://odontologiadegales.cl/wp-content/uploads/2021/07/Dra.-Camila-Lavin-Odontolog%C3%ADa-de-Gales-1.jpeg", dest: "assets/equipo/camila-lavin.jpeg" }
+  { url: "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dr.-Pablo-Andr%C3%A9s-Santiba%C3%B1ez-Piana.jpg", dest: "assets/equipo/pablo-santibanez.jpg" }
 ];
 
 const download = (url, dest) => {

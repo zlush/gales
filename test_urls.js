@@ -7,8 +7,7 @@ const testUrls = [
   "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dr.-Oscar-Oviedo-Munoz.jpg",
   "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dra.-Alejandra-Gonzalez-Saavedra.jpeg",
   "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dra.-Maria-Soledad-Fortuno.jpg",
-  "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dr.-Pablo-Andres-Santibanez-Piana.jpg",
-  "https://odontologiadegales.cl/wp-content/uploads/2021/07/Dra.-Camila-Lavin-Odontologia-de-Gales-1.jpeg"
+  "https://odontologiadegales.cl/wp-content/uploads/2021/05/Dr.-Pablo-Andres-Santibanez-Piana.jpg"
 ];
 
 const checkUrl = (url) => {

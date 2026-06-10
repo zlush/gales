@@ -3,13 +3,11 @@ $urls = @{
     "Dr-Oscar-Oviedo.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dr-Oscar-Oviedo.jpg"
     "Dr-Rodrigo-Iturriaga.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dr-Rodrigo-Iturriaga.jpg"
     "Dra-Carolina-Oviedo.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dra-Carolina-Oviedo.jpg"
-    "Dra-Francisca-Dinamarca.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dra-Francisca-Dinamarca.jpg"
     "Dra-Maria-Soledad-Fortuno.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dra-Maria-Soledad-Fortuno.jpg"
     "Dr-Branko-Radovic.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dr-Branko-Radovic.jpg"
     "Dra-Alejandra-Gonzalez.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dra-Alejandra-Gonzalez.jpg"
     "Dr-Marcelo-Silva.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dr-Marcelo-Silva.jpg"
     "Dr-Pablo-Santibanez.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dr-Pablo-Santibanez.jpg"
-    "Dra-Camila-Lavin.jpg" = "https://odontologiadegales.cl/wp-content/uploads/2023/05/Dra-Camila-Lavin.jpg"
 }
 
 $outputDir = "c:\Users\alfre\OneDrive\Escritorio\ANTIGRAVITY PROJECTS\Gales\assets\equipo"
